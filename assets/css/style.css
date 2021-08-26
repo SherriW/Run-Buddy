@@ -1,0 +1,13 @@
+/* body styles */
+body {
+  /* color set as hex code */
+  color: #39a6b2;
+  /* Helvetica first choice of font; others incase Helvetica not installed in computer */
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+/* header styles */
+header {
+  padding: 20px 35px;
+  background-color: #29a6b2;
+}
