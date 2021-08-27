@@ -1,3 +1,10 @@
+/* Set global styles */
+/* Set margin & padding to 0 to override browser defaults */
+* {
+  margin: 0;
+  padding: 0;
+}
+
 /* body styles */
 body {
   /* color set as hex code */
@@ -17,6 +24,7 @@ header h1 {
   font-size: 36px;
   color: #fce138;
   margin: 0;
+  display: inline;
 }
 
 header a {
@@ -27,4 +35,14 @@ header a {
 header nav {
   float: right;
   margin: 7px 0;
+}
+
+header nav ul li {
+  display: inline;
+}
+
+header nav ul li a {
+  margin: 0 30px;
+  font-weight: lighter;
+  font-size: 22px;
 }
