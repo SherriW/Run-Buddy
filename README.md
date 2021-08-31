@@ -30,7 +30,7 @@ Although, contributions are not allowed, at this time.  You may send any feedbac
 
 ## Authors and Acknowledgments
 Made with ❤️ by Sherri Winslow.
-Acknowledgements:  I would like to express my appreciation to my Tutor - Sandra Smith; Instructor - Dan Seskey; and TAs - Matt Torcellini, Symone Varnado, Nathan Sartain, and Jaime Montero who have been instrumental in keeping me on track and supporting me, while providing a quality education through UConn. and BCS Support.
+Acknowledgements:  I would like to express my appreciation to my Tutor - Sandra Smith; Instructor - Dan Seskey; and TAs - Matt Torcellini, Symone Varnado, Nathan Sartain, and Jaime Montero who have been instrumental in keeping me on track and supporting me, while providing a quality education through UConn.
 
 ## License
 For Educational purposes and Portfolio use.
