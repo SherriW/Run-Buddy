@@ -35,4 +35,4 @@ Acknowledgements:  I would like to express my appreciation to my Tutor - Sandra 
 ## License
 For Educational purposes and Portfolio use.
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc.
