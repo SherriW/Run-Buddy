@@ -154,6 +154,10 @@ section {
   margin: 5px 0 15px 0;
 }
 
+#t-yes {
+  margin-right: 15px;
+}
+
 .checkbox-wrapper input, .radio-wrapper input {
   opacity: 0;
 }
